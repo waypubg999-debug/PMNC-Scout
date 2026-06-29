@@ -2,5 +2,4 @@ streamlit
 pandas
 pillow
 streamlit-image-coordinates
-st-filesdb
 gspread
