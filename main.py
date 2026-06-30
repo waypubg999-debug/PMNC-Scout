@@ -11,7 +11,7 @@ import json
 # ตั้งค่าหน้าเว็บกว้างแบบ Dashboard สายลับ
 st.set_page_config(layout="wide", page_title="iSOTOPE Enemy Scout PMNC", page_icon="🕵️‍♂️")
 
-st.title("🕵️‍♂️ iSOTOPE Esports - ONLINE Enemy Scout 32 ทีมอันตราย")
+st.title("🕵️‍♂️ Enemy Scout")
 st.write("---")
 
 # =========================================================================
